@@ -9,13 +9,9 @@
 
 <p align="center"><img src="https://img.shields.io/github/license/CEOXeon/School-Cheater?color=red" alt="shields"></p>
 
-<h2>🚀 Demo</h2>
-
   
   
 <h2>🧐 Features</h2>
-
-Features:
 
 *   Free Hausaufgaben
 *   Beste Ausreden
@@ -31,9 +27,9 @@ Features:
 <p>4. Copy'n'Paste</p>
 
 ## 🍰 Du willst etwas beitragen?
-Dann Frage deine Resource über einen Issue an<br/>
+* Dann Frage deine Resource über einen Issue an<br/>
 **oder** <br/>
-Lade deine Resource über einen PR hoch
+* Lade deine Resource über einen PR hoch
   
   
 <h2>💻 Built with</h2>
