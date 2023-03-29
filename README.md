@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://socialify.git.ci/CEOXeon/School-Cheater/image?name=1&amp;owner=1&amp;pattern=Solid&amp;stargazers=1&amp;theme=Dark" alt="project-image"></p>
 
-<p id="description">Beschreibung coming soon</p>
+<p id="description">Wenn du einer meiner Freunde bist dann herzlichen Glückwunsch. Gerade eben hast du von mir die Erlaubnisbekommen diese Sachen mit Copy'n'Paste zunutzen</p>
 
 <p align="center"><img src="https://img.shields.io/github/license/CEOXeon/School-Cheater?color=red" alt="shields"></p>
 
@@ -13,7 +13,7 @@
 <h2>🧐 Features</h2>
 
 *   Free Hausaufgaben
-*   Beste Ausreden
+*   Free Ausreden
 
 <h2>🛠️ Installation Steps:</h2>
 
