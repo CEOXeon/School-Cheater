@@ -48,7 +48,9 @@ Then please Support me with starring ⭐ this project
 ## Table of Content
 
 [Deutsch](https://github.com/CEOXeon/School-Cheater/Deutsch/)
+
 * [Rollenbiografie TH]("https://github.com/CEOXeon/School-Cheater/Deutsch/Rollenbiografie Tempelherr.md")
-[Info](https://github.com/CEOXeon/School-Cheater/Info)
+
+[Info](https://github.com/CEOXeon/School-Cheater/Info/)
 * [Film](https://github.com/CEOXeon/School-Cheater/Info/film_query.py)
 
