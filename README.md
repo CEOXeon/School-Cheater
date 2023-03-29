@@ -15,15 +15,15 @@
 *   Free Hausaufgaben
 *   Free Ausreden
 
-<h2>🛠️ Installation Steps:</h2>
+## 🛠️ Installation Steps:
 
-<p>1. Table of Content öffnen</p>
+1. Table of Content öffnen
 
-<p>2. Fach anklicken</p>
+2. Fach anklicken
 
-<p>3. Unterrichtsmaterial suchen</p>
+3. Unterrichtsmaterial suchen
 
-<p>4. Copy'n'Paste</p>
+4. Copy'n'Paste
 
 ## 🍰 Du willst etwas beitragen?
 * Dann Frage deine Resource über einen Issue an<br/>
@@ -31,17 +31,16 @@
 * Lade deine Resource über einen PR hoch
   
   
-<h2>💻 Built with</h2>
+## 💻 Built with
 
-Technologies used in the project:
 
 *   Markdown
 
-<h2>🛡️ License:</h2>
+## 🛡️ License:
 
 This project is licensed under the MIT
 
-<h2>💖Like my work?</h2>
+## 💖Like my work?
 
 Then please Support me with starring ⭐ this project
 
