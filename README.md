@@ -8,7 +8,12 @@
 
 <p align="center"><img src="https://img.shields.io/github/license/CEOXeon/School-Cheater?color=red" alt="shields"></p>
 
-  
+
+# ⚠️ Warning: 
+* Dieses Projekt ist unter der MIT-Lizenz.
+* This project is under the MIT licence.
+
+
   
 <h2>🧐 Features</h2>
 
@@ -33,19 +38,18 @@
   
 ## 💻 Built with
 
-
 *   Markdown
 
 ## 🛡️ License:
 
-This project is licensed under the MIT
+Dieses Projekt ist unter der MIT-Lizenz
 
 ## 💖Like my work?
 
 Then please Support me with starring ⭐ this project
 
 
-## Table of Content
+## 📖Table of Content
 
 ### **[Deutsch](https://github.com/CEOXeon/School-Cheater/tree/main/Deutsch)**
 
