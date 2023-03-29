@@ -1,4 +1,3 @@
-# School-Cheater
 # Just a repo to cheat better on school exams with friends in School.
 
 # When you are not one of my friends just leave.
@@ -45,3 +44,6 @@ This project is licensed under the MIT
 <h2>💖Like my work?</h2>
 
 Then please Support me with starring ⭐ this project
+
+
+## Table of Content
