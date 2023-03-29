@@ -49,7 +49,7 @@ Then please Support me with starring ⭐ this project
 
 [Deutsch](https://github.com/CEOXeon/School-Cheater/Deutsch/)
 
-* [Rollenbiografie TH]("https://github.com/CEOXeon/School-Cheater/Deutsch/Rollenbiografie Tempelherr.md")
+* [Rollenbiografie TH](https://github.com/CEOXeon/School-Cheater/blob/main/Deutsch/Rollenbiografie%20Tempelherr.md)
 
 [Info](https://github.com/CEOXeon/School-Cheater/Info/)
 * [Film](https://github.com/CEOXeon/School-Cheater/blob/main/Info/film_query.py)
