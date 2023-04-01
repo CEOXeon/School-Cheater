@@ -12,7 +12,7 @@
 # ⚠️ Warning: 
 * 🇩🇪 Dieses Projekt ist unter der MIT-Lizenz.
 * 🇬🇧 This project is under the MIT licence.
-* Ich übernehme keine Verantwortung für die Richtigkeit oder Schäden di durch das Material entstehen.
+* Ich übernehme keine Verantwortung für die Richtigkeit oder Schäden die durch das Material entstehen.
 
 
   
