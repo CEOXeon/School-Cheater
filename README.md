@@ -10,8 +10,9 @@
 
 
 # ⚠️ Warning: 
-* Dieses Projekt ist unter der MIT-Lizenz.
-* This project is under the MIT licence.
+* 🇩🇪 Dieses Projekt ist unter der MIT-Lizenz.
+* 🇬🇧 This project is under the MIT licence.
+* Ich übernehme keine Verantwortung für die Richtigkeit oder Schäden di durch das Material entstehen.
 
 
   
