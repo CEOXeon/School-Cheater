@@ -59,3 +59,6 @@ Then please Support me with starring ⭐ this project
 ### **[Info](https://github.com/CEOXeon/School-Cheater/tree/main/Info/)**
 * [Film](https://github.com/CEOXeon/School-Cheater/blob/main/Info/film_query.py)
 
+### **[Musik](https://github.com/CEOXeon/School-Cheater/tree/main/Musik)**
+* [HA](https://github.com/CEOXeon/School-Cheater/blob/main/Musik/HA.md)
+
