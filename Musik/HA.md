@@ -2,7 +2,7 @@
 Harfe zeigt Mitternacht an / einsetzende Violine soll den kommenden Tod darstellen 
 # 4.
 1. Schnell
-2. 2. Langsam 
+2. Langsam 
 Violine, Tuba, Querflöte, Posaune, Kontrabass, Triangel, Xylophon
 Tiefe Dröhnende Töne
 Hohe grelle Töne
